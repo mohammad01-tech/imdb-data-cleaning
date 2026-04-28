@@ -63,6 +63,8 @@ The dataset was cleaned using a structured pipeline:
 
 ###  Before Cleaning
 
+![](Images/1st.png)
+
 * Dataset could not be properly parsed due to delimiter issues
 * Numerical columns contained non-numeric characters
 * Missing values were present
@@ -72,6 +74,8 @@ The dataset was cleaned using a structured pipeline:
 ---
 
 ###  After Cleaning
+
+![](Images/2nd.png)
 
 * Dataset successfully parsed and structured
 * Numerical columns converted to proper numeric format
